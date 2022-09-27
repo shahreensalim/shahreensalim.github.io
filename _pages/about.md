@@ -12,9 +12,14 @@ I am a third-year Ph.D. student at the Department of Computer Science, Stony Bro
 
 My current research interests are Human-centered AI and Visual Analytics. More specifically, I am passionate about designing visual analytics tools that facilitate automated analysis of the human interpretation of the world in various aspects, such as understanding their causal beliefs and generating colors from natural language. I obtained a Masters and BSc in Computer Science from University of Dhaka where my research was related to Natural Language Processing tools for Bangla language.
 
+** I am currently looking for an internship for summer 2023. **
+
+
+
 Recent News
 ================
 - May 2022: Passed my Research Proficiency Exam and advanced to Ph.D. candidacy.
+- May 2021: My Visual Analytics Project was featured in the [Stars of CSE 564- Spring 2021 playlist](https://www.youtube.com/watch?v=2tV5AsBQlcI&list=PLyCRt3MN8s8OJp-M5UdCQv-NDllAqJOb5).
 - August 2020: Started my Ph.D. in Computer Science at Stony Brook University.
 
 
