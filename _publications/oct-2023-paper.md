@@ -1,3 +1,4 @@
+---
 title: "Analyzing Film Adaptation through Narrative Alignment"
 collection: publications
 permalink: /publication/oct-2023-paper
