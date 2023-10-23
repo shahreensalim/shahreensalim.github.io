@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at the Department of Computer Science, Stony Brook University. I work with Professor [Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/) and am a member of the [Visual Analytics and Imaging (VAI) lab](https://www3.cs.stonybrook.edu/~mueller/people/).
+I am a fourth-year Ph.D. student at the Department of Computer Science, Stony Brook University. I work with Professor [Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/) and am a member of the [Visual Analytics and Imaging (VAI) lab](https://www3.cs.stonybrook.edu/~mueller/people/).
 
 My current research interests are Human-centered AI and Visual Analytics. More specifically, I am passionate about designing visual analytics tools that facilitate automated analysis of the human interpretation of the world in various aspects, such as understanding their causal beliefs and generating colors from natural language. I obtained a Masters and BSc in Computer Science from University of Dhaka where my research was related to Natural Language Processing tools for Bangla language.
 
-** I am currently looking for an internship for summer 2023. **
+** I am currently looking for a research internship for summer 2024. **
 
 
 
 Recent News
 ================
+- Oct 2023: Our paper on "Analyzing Film Adaptation through Narrative Alignment" was accepted in EMNLP Main 2023. This paper started as our Data Science Course Project and flourished into something awesome.
+- April 2023: I attended the Grad Cohort for Women 2023 in San Francisco, CA. I also presented a poster on my work "Belief Miner". 
 - May 2022: Passed my Research Proficiency Exam and advanced to Ph.D. candidacy.
 - May 2021: My Visual Analytics Project was featured in the [Stars of CSE 564- Spring 2021 playlist](https://www.youtube.com/watch?v=2tV5AsBQlcI&list=PLyCRt3MN8s8OJp-M5UdCQv-NDllAqJOb5).
 - August 2020: Started my Ph.D. in Computer Science at Stony Brook University.
