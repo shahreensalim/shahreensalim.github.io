@@ -1,10 +1,13 @@
 ---
 title: "Belief Miner"
-excerpt: "A crowdsourcing tool for analyzing causal beliefs and cognitive illusions.<br/><img src='/images/belief-miner-teaser.png'>"
+excerpt: "A crowdsourcing tool for collecting and analyzing causal beliefs and illusions.<br/><img src='/images/belief-miner-teaser.png'>"
 collection: projects
 ---
 
+![Belief Miner](../images/belief-miner-teaser.png)
+
 Belief Miner is a crowdsourcing tool designed to facilitate the collection and analysis of user-generated data on causal beliefs and cognitive illusions. The tool helps researchers systematically explore patterns and biases in human reasoning, allowing for deeper insights into how people perceive causality across various contexts.
+
 
 ## Key Features
 - **Crowdsourced Data Collection**: Gather data from diverse participants to understand causal reasoning.
