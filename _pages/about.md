@@ -10,7 +10,9 @@ redirect_from:
 
 I am a fifth-year Ph.D. student at the Department of Computer Science, Stony Brook University. I work with Professor [Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/) and am a member of the [Visual Analytics and Imaging (VAI) lab](https://www3.cs.stonybrook.edu/~mueller/people/).
 
-My current research interests are Human-centered AI and Visual Analytics. More specifically, I am passionate about designing visual analytics tools that facilitate automated analysis of the human interpretation of the world in various aspects, such as understanding their causal beliefs and generating colors from natural language. I obtained a Masters and BSc in Computer Science from University of Dhaka where my research was related to Natural Language Processing tools for Bangla language.
+My current research interests are Human-centered AI and Visual Analytics. More specifically, I am passionate about designing visual analytics tools that facilitate automated analysis of the human interpretation of the world in various aspects, such as understanding their causal beliefs and generating colors from natural language. My research has been published in venues like CSCW and EMNLP.
+
+I obtained a Masters and BSc in Computer Science from University of Dhaka where my research was related to Natural Language Processing tools for Bangla language.
 
 ** I am currently looking for a research internship for summer 2025. **
 
